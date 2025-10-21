@@ -1,4 +1,4 @@
-package lab1.domain;
+package lab0.domain;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package lab1.repo;
+package lab0.repo;
 
-import lab1.domain.Order;
+import lab0.domain.Order;
 import java.util.ArrayList;
 import java.util.List;
 

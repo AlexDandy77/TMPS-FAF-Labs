@@ -1,4 +1,4 @@
-package lab1.payment;
+package lab0.payment;
 
 public class PaypalPayment implements PaymentMethod {
     private final String account;

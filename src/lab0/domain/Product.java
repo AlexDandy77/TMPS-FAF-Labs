@@ -1,3 +1,3 @@
-package lab1.domain;
+package lab0.domain;
 
 public record Product(String name, double price) { }

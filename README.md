@@ -1,0 +1,12 @@
+# TMPS Laboratory works
+
+This is the original repository for storing the Laboratory works for the Software Design Techniques and Mechanisms at TUM.
+
+**Student:** Alexei Pavlovschii, FAF-231
+
+**Languages used:** Java
+
+## Table of Contents
+
+- [Laboratory 0](https://github.com/AlexDandy77/TMPS-FAF-Labs/blob/main/lab0/README.md)
+- [Laboratory 1](https://github.com/AlexDandy77/TMPS-FAF-Labs/blob/main/lab1/README.md)

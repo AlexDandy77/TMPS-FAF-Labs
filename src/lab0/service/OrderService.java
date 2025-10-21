@@ -1,8 +1,8 @@
-package lab1.service;
+package lab0.service;
 
-import lab1.domain.Order;
-import lab1.payment.PaymentMethod;
-import lab1.repo.OrderRepository;
+import lab0.domain.Order;
+import lab0.payment.PaymentMethod;
+import lab0.repo.OrderRepository;
 
 // SRP: orchestrates checkout only (not formatting invoice, not persistence logic itself)
 // DIP: depends on abstractions PaymentMethod & OrderRepository

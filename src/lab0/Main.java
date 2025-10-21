@@ -1,10 +1,10 @@
-package lab1;
+package lab0;
 
-import lab1.domain.Order;
-import lab1.domain.Product;
-import lab1.payment.*;
-import lab1.repo.*;
-import lab1.service.*;
+import lab0.domain.Order;
+import lab0.domain.Product;
+import lab0.payment.*;
+import lab0.repo.*;
+import lab0.service.*;
 
 import java.util.List;
 

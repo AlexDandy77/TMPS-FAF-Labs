@@ -1,4 +1,4 @@
-package lab1.payment;
+package lab0.payment;
 
 public class CardPayment implements PaymentMethod {
     private final String maskedCard;

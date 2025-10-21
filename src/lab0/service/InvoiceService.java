@@ -1,6 +1,6 @@
-package lab1.service;
+package lab0.service;
 
-import lab1.domain.Order;
+import lab0.domain.Order;
 
 public class InvoiceService {
     // SRP: only builds a printable invoice string
